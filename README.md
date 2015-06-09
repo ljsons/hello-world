@@ -1,2 +1,2 @@
 # hello-world
-Hello world repo for intro to github
+Like many readme files, this one is useless.
